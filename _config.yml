@@ -11,13 +11,13 @@ repository: khanhlp315/khanhlp315.github.io
 teaser: null
 words_per_minute: 200
 comments:
-  provider: null
+  provider: facebook
   disqus:
     shortname: null
   discourse:
     server: null
   facebook:
-    appid: null
+    appid: '177907876225383'
     num_posts: null
     colorscheme: null
 staticman:
@@ -201,6 +201,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: null
+      comments: 'true'
       share: true
       related: true

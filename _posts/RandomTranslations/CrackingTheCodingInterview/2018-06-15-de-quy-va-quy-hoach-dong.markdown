@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "Các bài toán về đệ quy và quy hoạch động khi phỏng vấn"
-date:   2018-06-15 03:52:56 +0700
+title: Các bài toán về đệ quy và quy hoạch động khi phỏng vấn
+date: '2018-06-15 03:52:56 +0700'
 categories:
-  - Translation
-  - Cracking The Coding Interview
+- Translation
+- Cracking The Coding Interview
 ---
+
 *Được dịch từ Cracking the Coding Interview, 5th Edition*
 
 Mặc dù có rất nhiều bài toán có thể áp dụng đệ quy, rất nhiều trong số đó đều tuân theo một khuôn mẫu. Cách đơn giản nhất để nhận ra một bài toán có thể áp dụng đệ quy hay không là xem coi vấn đề đó có được xây dựng từ nhiều bài toán nhỏ hay không.
