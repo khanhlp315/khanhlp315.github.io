@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /projects/
-title: "Projects"
+title: Projects
+permalink: "/projects/"
 ---
 
 Ở đây là các project của mình:
