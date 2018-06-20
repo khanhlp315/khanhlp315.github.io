@@ -4,7 +4,10 @@ title: Các bài toán về đệ quy và quy hoạch động khi phỏng vấn
 date: '2018-06-15 03:52:56 +0700'
 categories:
 - Translation
+tags:
 - Cracking The Coding Interview
+- Recursion
+- Dynamic Programming
 ---
 
 *Được dịch từ Cracking the Coding Interview, 5th Edition*
