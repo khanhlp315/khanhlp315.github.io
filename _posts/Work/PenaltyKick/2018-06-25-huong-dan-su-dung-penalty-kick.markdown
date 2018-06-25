@@ -8,9 +8,6 @@ tags:
 - Penalty Kick
 ---
 
-
-# Hướng dẫn sử dụng
-
  1. Điều chỉnh Kinect:
  - Mở máy chiếu
  - Chạy file Settings
